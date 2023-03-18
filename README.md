@@ -23,6 +23,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 # 💻 Moods :
 ![mood](https://media.tenor.com/km-lY7Mlqc4AAAAi/typing-pepe-the-frog.gif) 
-![mood](https://media.tenor.com/ijwOZvLtFvsAAAAC/kios-angry.gif){width=40px} 
+![mood](https://media.tenor.com/ijwOZvLtFvsAAAAC/kios-angry.gif){width=60%} 
 ![mood](https://media.tenor.com/w1ps4KuoragAAAAd/yes-computer.gif)
 ![mood](https://media.tenor.com/hphibCumbckAAAAd/meme.gif)
