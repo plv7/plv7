@@ -21,5 +21,6 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-# 💻 Mood :
-![mood](https://media.tenor.com/km-lY7Mlqc4AAAAi/typing-pepe-the-frog.gif)
+# 💻 Moods :
+![mood](https://media.tenor.com/km-lY7Mlqc4AAAAi/typing-pepe-the-frog.gif) (https://media.tenor.com/ijwOZvLtFvsAAAAC/kios-angry.gif) (https://media.tenor.com/w1ps4KuoragAAAAd/yes-computer.gif)
+(https://media.tenor.com/hphibCumbckAAAAd/meme.gif)
