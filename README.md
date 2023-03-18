@@ -1,5 +1,5 @@
 # 👤 About Me:
-🎓 Junior Dev<br>🌐 Blockchain<br>🧨 NFTs<br>🔨 Gets better every day
+🎓 Student Dev<br>🌐 Blockchain<br>🧨 NFTs<br>🔨 Gets better every day
 
 
 # 🌐 Socials:
