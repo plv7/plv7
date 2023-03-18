@@ -22,8 +22,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 # 💻 Moods :
-<img src="https://media.tenor.com/Z4Ks69TQz0wAAAAi/hacker-pepe.gif" height="130">
-<img src="https://media.tenor.com/NFKPcuNRDDAAAAAd/memes-smashing-pc.gif" height="130">
+<img src="https://media.tenor.com/Z4Ks69TQz0wAAAAi/hacker-pepe.gif" height="130"><img src="https://media.tenor.com/NFKPcuNRDDAAAAAd/memes-smashing-pc.gif" height="130">
 <img src="https://media.tenor.com/hphibCumbckAAAAd/meme.gif" height="130">
 <img src="https://media.tenor.com/MhVJtrDqT8IAAAAd/nice-thumbs-up.gif" height="130">
 
