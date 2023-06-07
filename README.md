@@ -2,6 +2,7 @@
 >🎓 Student Dev<br>
 🌐 Blockchain<br>
 🧨 NFTs<br>
+>
 >[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/689079012156243968 "Pelavo#0001")<br>
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pelavo7 "@pelavo7")<br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pelav07"pelav07")<br>
