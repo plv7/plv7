@@ -20,5 +20,3 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 # 
 <img src="https://media.tenor.com/Z4Ks69TQz0wAAAAi/hacker-pepe.gif" height="130"><img src="https://media.tenor.com/NFKPcuNRDDAAAAAd/memes-smashing-pc.gif" height="130">
-<img src="https://media.tenor.com/MhVJtrDqT8IAAAAd/nice-thumbs-up.gif" height="130">
-
