@@ -18,7 +18,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 # 
 <img src="https://media.tenor.com/Z4Ks69TQz0wAAAAi/hacker-pepe.gif" height="130"><img src="https://media.tenor.com/NFKPcuNRDDAAAAAd/memes-smashing-pc.gif" height="130">
 <img src="https://media.tenor.com/MhVJtrDqT8IAAAAd/nice-thumbs-up.gif" height="130">
