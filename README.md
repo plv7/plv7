@@ -1,7 +1,7 @@
 # <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/octocat/homercat.png" width="30px" height="auto"> About Me:
-🎓 Student Dev<br>
-🌐 Blockchain<br>
-🧨 NFTs<br>
+>🎓 Student Dev<br>
+>🌐 Blockchain<br>
+>🧨 NFTs<br>
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/689079012156243968 "Pelavo#0001")<br>
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pelavo7 "@pelavo7")<br>
