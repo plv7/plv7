@@ -3,8 +3,7 @@
 🌐 Blockchain<br>
 🧨 NFTs<br>
 
-
-[![Discord](https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b544a3e3c7c05753bcd_full_logo_white_RGB.png)](https://discordapp.com/users/689079012156243968 "Pelavo#0001")<br>
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/689079012156243968 "Pelavo#0001")<br>
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pelavo7)<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pelav07/) 
 # 👑 Tech Stack:
@@ -21,4 +20,3 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 # 
 <img src="https://media.tenor.com/Z4Ks69TQz0wAAAAi/hacker-pepe.gif" height="130"><img src="https://media.tenor.com/NFKPcuNRDDAAAAAd/memes-smashing-pc.gif" height="130">
-<img src="https://discordapp.com/users/689079012156243968" width="40px" height="auto">
