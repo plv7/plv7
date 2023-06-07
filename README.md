@@ -3,8 +3,8 @@
 🌐 Blockchain<br>
 🧨 NFTs<br>
 
-<img src="badge" style:width:"40px";height:"auto">
-[![Discord](https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b544a3e3c7c05753bcd_full_logo_white_RGB.png)](https://discordapp.com/users/689079012156243968/badge "Pelavo#0001")<br>
+<img src="https://discordapp.com/users/689079012156243968" style:width:"40px";height:"auto">
+[![Discord](https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b544a3e3c7c05753bcd_full_logo_white_RGB.png)](https://discordapp.com/users/689079012156243968 "Pelavo#0001")<br>
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pelavo7)<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pelav07/) 
 # 👑 Tech Stack:
