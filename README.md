@@ -1,4 +1,4 @@
-# <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/octocat/homercat.png" width="30px" height="auto"> About Me:
+# 🎈 About Me:
 >🎓 Student Dev<br>
 🌐 Blockchain<br>
 🧨 NFTs<br>
