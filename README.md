@@ -18,6 +18,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username={plv7}&theme=blue-green)
 # 
-<img src="https://64.media.tumblr.com/fcd38e27bdee8b94126997d730227d01/tumblr_pq4be7kFFX1uvq3s5o1_400.gifv"><img src="https://media.tenor.com/Z4Ks69TQz0wAAAAi/hacker-pepe.gif" height="230">
+<img src="https://64.media.tumblr.com/fcd38e27bdee8b94126997d730227d01/tumblr_pq4be7kFFX1uvq3s5o1_400.gifv"><img src="https://usagif.com/wp-content/uploads/2021/4fh5wi/pepefrg-53.gif"><img src="https://media.tenor.com/Z4Ks69TQz0wAAAAi/hacker-pepe.gif" height="230">
